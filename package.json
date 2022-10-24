@@ -1,0 +1,15 @@
+{
+  "name": "twilio-whatsapp",
+  "version": "1.0.0",
+  "description": "twilio whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaishnavi Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^3.83.0"
+  }
+}
